@@ -30,7 +30,7 @@ export default function Header() {
   return (
     <div className="header">
       <div className="mx-auto text-3xl flex items-center justify-between px-3 py-5 md:w-10/12">
-      <h2>YUKI'S PORTFOLIO</h2>
+      <h2>MY PORTFOLIO</h2>
       <label className="toggle-switch">
         <input type="checkbox" checked={isDarkMode} onChange={toggleDarkMode} />
         <span className="slider round"></span>
