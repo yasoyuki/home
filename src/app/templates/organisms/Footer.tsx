@@ -5,7 +5,6 @@ export default function Footer() {
         <div className="footer text-2xl text-zinc-800 bg-gray-300 flex flex-col items-center justify-center px-3 py-5">
         <h2>MY PORTFOLIO</h2>
         <p className="text-lg">2024.02.18</p>
-        <p className="text-2xl">YUKI YASOSHIMA</p>
         <p className="text-lg">Thank you for checking</p>
       </div>
     );
